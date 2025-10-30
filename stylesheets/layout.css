@@ -896,7 +896,7 @@ h2 {
   grid-auto-rows: calc(550px / 5);
   width: 1280px;
   margin: 0 auto;
-  border: 2px solid #3b00ff;
+  border: 2px solid #5135ed;
   background: #ffffff;
   box-sizing: border-box;
 }
@@ -914,9 +914,9 @@ h2 {
   font-style: italic;
   font-weight: 700;
   font-size: 64px;
-  color: #3b00ff;
+  color: #5135ed;
   background-color: #ffffff;
-  border: 2px solid #3b00ff;
+  border: 2px solid #5135ed;
   cursor: pointer;
 
   transition: background-color 0.25s ease, color 0.25s ease,
@@ -927,7 +927,7 @@ h2 {
 }
 
 .glyph-grid div:hover {
-  background-color: #3b00ff;
+  background-color: #5135ed;
   color: #ffffff;
   transform: scale(1.06);
   box-shadow: 0 8px 20px rgba(59, 0, 255, 0.25);
